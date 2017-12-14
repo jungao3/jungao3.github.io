@@ -1,0 +1,49 @@
+body.menu{
+	background-color:#262626;
+}
+
+h1.menuTitle{
+	color:#FFFFFF;
+	font-family:Arial;
+	font-weight:bold;
+	text-align:center;
+	font-size:50px;
+}
+
+a.menuLink{
+	color:#FFFFFF;
+	font-family:Arial;
+	text-align:center;
+	font-size:20px;
+}
+
+body.content{
+	background-color:#737373;
+}
+
+h1.welcomeHeadline{
+	color:#FFFFFF;
+	text-align:center;
+	font-size:50px;
+	font-family:Arial;
+	font-style:italic;
+	margin-top:200px;
+	margin-bottom:200px;
+}
+
+p.mainText{
+	color:#FFFFFF;
+	text-align:center;
+	font-size:20px;
+	font-family:Arial;
+}
+
+h1.headline{
+	color:DarkSeaGreen;
+	text-align:center;
+	font-size:30px;
+	font-family:TimesNewRomen;
+	margin-top:30px;
+	margin-bottom:50px;
+	font-weight:bold;
+}
